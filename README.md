@@ -102,17 +102,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Sahastrabuddhe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## ✍️ Favourite Quote
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Parth-Sahastrabuddhe&theme=merko&no-frame=true&no-bg=false&margin-w=4)
-
-## ✍️ Linus's Law
-
-> _"Given enough eyeballs, all bugs are shallow."_
-
-## 🔝 Top Contributed Repos
-
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Parth-Sahastrabuddhe&limit=5&theme=merko&combine_all_yearly_contributions=true)
+> _"Given enough eyeballs, all bugs are shallow."_ — **Linus's Law**
 
 ---
 
