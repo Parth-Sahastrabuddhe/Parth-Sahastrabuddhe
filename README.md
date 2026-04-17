@@ -98,7 +98,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Parth-Sahastrabuddhe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Parth-Sahastrabuddhe&theme=dark&hide_border=false)
+![Streak](https://streak-stats.demolab.com/?user=Parth-Sahastrabuddhe&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Sahastrabuddhe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -106,9 +106,9 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Parth-Sahastrabuddhe&theme=merko&no-frame=true&no-bg=false&margin-w=4)
 
-## ✍️ Random Dev Quote
+## ✍️ Linus's Law
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+> _"Given enough eyeballs, all bugs are shallow."_
 
 ## 🔝 Top Contributed Repos
 
